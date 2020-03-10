@@ -1,0 +1,19 @@
+
+.example{
+    font-size: 14pt;
+    font-style: italic;
+    margin-bottom: 3pt;
+    margin-top:3pt ;
+}
+.centering-img{
+    text-align: center;
+}
+nav{
+    width: 20%;
+    float: left;
+}
+section{
+    font-size: 14pt;
+    width: 80%;
+    float: left;
+}
